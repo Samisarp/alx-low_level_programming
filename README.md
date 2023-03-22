@@ -1,1 +1,1 @@
-Getting started with C programming language
+Learning functions in C
