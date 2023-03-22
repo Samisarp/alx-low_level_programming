@@ -1,6 +1,11 @@
 #include <stdio.h>
-int main(void)
+
+/* This main function prints out _putchar 
+* But returns a value of zero
+*/ 
+
+int main (void)
 {
-	printf("_putchar\n");
-	return(0);
+	printf ("_putchar\n");
+	return (0);
 }
