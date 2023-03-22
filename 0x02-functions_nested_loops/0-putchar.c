@@ -1,11 +1,13 @@
 #include <stdio.h>
 
-/* This main function prints out _putchar 
-* But returns a value of zero
-*/ 
+/**
+ * main - Print "_putchar" followed by a new line.
+ * Description: You are not allowed to include standard libraries.
+ * Return: 0
+ */
 
-int main (void)
+int main(void)
 {
-	printf ("_putchar\n");
-	return (0);
+	printf("_putchar\n");
+	return(0);
 }
